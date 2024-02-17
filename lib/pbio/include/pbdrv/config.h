@@ -9,32 +9,32 @@
 
 // set to (1) if there is a port labeled "A" on the programmable brick
 #ifndef PBDRV_CONFIG_HAS_PORT_A
-#define PBDRV_CONFIG_HAS_PORT_A (0)
+#define PBDRV_CONFIG_HAS_PORT_A (1)
 #endif
 
 // set to (1) if there is a port labeled "B" on the programmable brick
 #ifndef PBDRV_CONFIG_HAS_PORT_B
-#define PBDRV_CONFIG_HAS_PORT_B (0)
+#define PBDRV_CONFIG_HAS_PORT_B (1)
 #endif
 
 // set to (1) if there is a port labeled "C" on the programmable brick
 #ifndef PBDRV_CONFIG_HAS_PORT_C
-#define PBDRV_CONFIG_HAS_PORT_C (0)
+#define PBDRV_CONFIG_HAS_PORT_C (1)
 #endif
 
 // set to (1) if there is a port labeled "D" on the programmable brick
 #ifndef PBDRV_CONFIG_HAS_PORT_D
-#define PBDRV_CONFIG_HAS_PORT_D (0)
+#define PBDRV_CONFIG_HAS_PORT_D (1)
 #endif
 
 // set to (1) if there is a port labeled "E" on the programmable brick
 #ifndef PBDRV_CONFIG_HAS_PORT_E
-#define PBDRV_CONFIG_HAS_PORT_E (0)
+#define PBDRV_CONFIG_HAS_PORT_E (1)
 #endif
 
 // set to (1) if there is a port labeled "F" on the programmable brick
 #ifndef PBDRV_CONFIG_HAS_PORT_F
-#define PBDRV_CONFIG_HAS_PORT_F (0)
+#define PBDRV_CONFIG_HAS_PORT_F (1)
 #endif
 
 // set to (1) if there is a port labeled "1" on the programmable brick
